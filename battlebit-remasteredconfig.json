@@ -1,0 +1,15 @@
+[
+    {
+        "DisplayName": "Server Password",
+        "Category": "Password",
+        "Description": "Server Password",
+        "Keywords": "Password",
+        "FieldName": "Password",
+        "InputType": "password",
+        "IsFlagArgument": false,
+        "ParamFieldName": "Password",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "123",
+        "EnumValues": {}
+    }
+]
